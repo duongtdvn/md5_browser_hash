@@ -1,0 +1,10 @@
+{
+  "name": "md5_browser_hash",
+  "version": "1.0.0",
+  "authors": [
+    "Duong Truong <duongtd@sololab.net>"
+  ],
+  "description": "md5 browser hash",
+  "main": "md5_browser_hash.js",
+  "license": "MIT"
+}
